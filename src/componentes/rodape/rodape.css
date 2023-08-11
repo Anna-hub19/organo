@@ -1,0 +1,12 @@
+.rodape{
+    background-color: #6278f7;
+    display: flex;
+    justify-content: space-around;
+    padding: 32px;
+   
+}
+.div1{
+   display: flex;
+   height: 40px;
+   gap: 15px;
+}
